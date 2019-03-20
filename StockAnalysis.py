@@ -3,7 +3,7 @@
 """
 Created on Thu Apr 26 11:06:14 2018
 
-@author: Gowtham
+@author: Gowtham shankar Gowri Shankar
 """
 
 class StockAnalysis:
